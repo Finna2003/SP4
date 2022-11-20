@@ -1,0 +1,16 @@
+#include <iostream>
+#include <cstdlib> // для system
+using namespace std;
+
+int main()
+{
+    int i=3;
+    cout << "Hello, world!" << endl;
+    double n>=12.5;
+    int x= 0x102f;
+    int y= 0x13a;// Куку
+    system("pause"); // Только для тех, у кого MS Visual Studio
+    return 0;
+}
+
+
